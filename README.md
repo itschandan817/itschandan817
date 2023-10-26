@@ -1,6 +1,6 @@
 <h1 >Chandan Kumar</h1>
 <br>
-  Passionate about Front-end and its Evolution
+  <h3>Passionate about Front-end and its Evolution</h3>
 <hr width="75%"/>
 
 
