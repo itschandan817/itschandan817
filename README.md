@@ -1,4 +1,4 @@
-<h1 >Chandan Kumar</h1>
+<h1 style="color:Green;">Chandan Kumar</h1>
 <br>
   <h5 style= "background-color:gray">Passionate about Front-end and its Evolution</h5>
 <hr width="75%"/>
