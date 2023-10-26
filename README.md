@@ -1,6 +1,6 @@
 <h1 style="color:Green;">Chandan Kumar</h1>
 <br>
-  <h5 style= "background-color:gray">Passionate about Front-end and its Evolution</h5>
+  >Passionate about Front-end and its Evolution
 <hr width="75%"/>
 
 
