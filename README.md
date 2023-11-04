@@ -1,6 +1,6 @@
 # Chandan Kumar
 
-> Passionate about Frontend development and its Evolution
+> Passionate about Frontend Development and its Evolution
 
 
 React.js | Next.js | JavaScript
