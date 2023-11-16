@@ -3,7 +3,7 @@
 > Passionate about Frontend Development and its Evolution
 
 
-React.js | Next.js | JavaScript
+React.js | Next.js | JavaScript |TypeScript
 
 
 
